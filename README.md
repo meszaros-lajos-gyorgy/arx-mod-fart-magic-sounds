@@ -12,9 +12,13 @@ A silly Arx Fatalis mod that aims to replace all magic related sound effects wit
 - aam
 - yok
 - taar
+- nhi
 
 ### Spells
 
-- all sounds of ignite (aam + yok)
-- all sounds of magic missile (aam + taar)
-- all sounds of fireball (aam + yok + taar)
+All the sounds of ...
+
+- ignite (aam + yok)
+- magic missile (aam + taar)
+- fireball (aam + yok + taar)
+- douse (nhi + yok)
